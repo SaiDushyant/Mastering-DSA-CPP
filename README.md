@@ -23,24 +23,6 @@ Each topic includes a set of C++ practice problems, often inspired by common int
 
 C++ provides fine-grained control over memory, performance, and data structures — making it an excellent language for learning DSA. Many competitive programming platforms and technical interviews also use C++ due to its speed and STL (Standard Template Library) support.
 
-## 🛠️ Structure
-
-The repository is organized by topic, and each folder contains relevant C++ source files and problem explanations wherever necessary.
-
-Example structure:
-
-```
-dsa-cpp/
-├── arrays/
-├── linked_lists/
-├── stacks_queues/
-├── trees/
-├── graphs/
-├── dp/
-├── sorting/
-└── misc/
-```
-
 ## 🚀 Learning Objectives
 
 - Develop a deep understanding of core data structures and algorithms.
